@@ -1,0 +1,32 @@
+{
+  "name": "@pics-module/workflow",
+  "version": "1.0.1",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0",
+    "@angular/material": "^11.2.13",
+    "bootstrap": "^4.6.0",
+    "@angular/cdk": "^13.3.4",
+    "primeflex": "^2.0.0",
+    "primeicons": "^5.0.0",
+    "primeng": "^13.0.2",
+    "rxjs": "~6.6.0",
+    "quill": "^1.3.6"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "main": "bundles/pics-module-workflow.umd.js",
+  "module": "fesm2015/pics-module-workflow.js",
+  "es2015": "fesm2015/pics-module-workflow.js",
+  "esm2015": "esm2015/pics-module-workflow.js",
+  "fesm2015": "fesm2015/pics-module-workflow.js",
+  "typings": "pics-module-workflow.d.ts",
+  "sideEffects": false,
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "",
+  "license": "ISC"
+}

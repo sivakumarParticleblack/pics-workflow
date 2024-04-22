@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of workflow
+ */
+export * from './lib/workflow.service';
+export * from './lib/workflow.component';
+export * from './lib/workflow.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3Byb2plY3RzL3BpY3MtbW9kdWxlL3dvcmtmbG93L3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyx3QkFBd0IsQ0FBQztBQUN2QyxjQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGNBQWMsdUJBQXVCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIHdvcmtmbG93XG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvd29ya2Zsb3cuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi93b3JrZmxvdy5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvd29ya2Zsb3cubW9kdWxlJztcbiJdfQ==
